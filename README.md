@@ -12,3 +12,5 @@ Open the index.html file in a web browser to view the Netflix-like interface.
 Contributing:
 
 Contributions and improvements to the project are welcome! Feel free to fork the repository, make enhancements, and submit pull requests.
+
+![Screenshot 2023-10-07 024008](https://github.com/Mostafamahmoud12824/Netflix-Home/assets/62766443/18dcde21-9dd3-4fa2-8623-f31b92755da3)
